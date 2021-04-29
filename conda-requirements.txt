@@ -1,0 +1,6 @@
+dash-design-kit=1.4.1
+dash-snapshots=1.2.5
+dash=1.13.4
+gunicorn=19.9.0
+pandas=1.0.5
+vine=1.3.0

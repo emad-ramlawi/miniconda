@@ -1,0 +1,1 @@
+echo "172.19.7.232 dash.theystech.com" >> /etc/hosts

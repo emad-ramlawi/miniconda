@@ -1,0 +1,82 @@
+window.theme = {
+   accent:"#273a56",
+   accent_negative:"#273a56",
+   accent_positive:"#273a56",
+   background_content:"#ffffff",
+   background_page:"#F3F3F3",
+   border:"#e2e2e2",
+   breakpoint_font:"1200px",
+   breakpoint_stack_blocks:"700px",
+   card_border:{
+       width:"0px",
+       style:"solid",
+       color:"#e2e2e2",
+       radius:"0px"
+   },
+   card_background_color:"#ffffff",
+   card_box_shadow:"0px 1px 3px rgba(0,0,0,0.12), 0px 1px 2px rgba(0,0,0,0.24)",
+   card_margin:"5px",
+   card_padding:"5px",
+   card_outline:{
+       width:"0px",
+       style:"solid",
+       color:"#e2e2e2"
+   },
+   card_header_border:{
+       width:"0px",
+       style:"solid",
+       color:"#e2e2e2",
+       radius:"0px"
+   },
+   card_header_background_color:"#ffffff",
+   card_header_box_shadow:"0px 0px 0px rgba(0,0,0,0)",
+   card_header_margin:"0px",
+   card_header_padding:"10px",
+   colorway:[
+       "#273a56",
+       "#3366cc",
+       "#dc3912",
+       "#ff9900",
+       "#109618",
+       "#990099",
+       "#0099c6",
+       "#dd4477",
+       "#66aa00",
+       "#b82e2e"
+   ],
+   colorscale:[
+       "#273a56",
+       "#3e4d67",
+       "#546179",
+       "#6b768b",
+       "#838b9d",
+       "#9ba1b0",
+       "#b3b8c3",
+       "#cccfd7",
+       "#e5e7eb",
+       "#ffffff"
+   ],
+   font_family:"Source Sans Pro",
+   font_size:"17px",
+   font_size_smaller_screen:"15px",
+   font_family_header:"Roboto",
+   font_size_header:"24px",
+   font_family_headings:"Raleway",
+   font_headings_size:null,
+   header_border:{
+       width:"0px",
+       style:"solid",
+       color:"#e2e2e2",
+       radius:"0px"
+   },
+   header_background_color:"#ffffff",
+   header_box_shadow:"0px 1px 3px rgba(0,0,0,0.12), 0px 1px 2px rgba(0,0,0,0.24)",
+   header_margin:"0px 0px 15px 0px",
+   header_padding:"0px",
+   text:"#606060",
+   report_font_family:"Computer Modern",
+   report_font_size:"12px",
+   report_background_page:"white",
+   report_background_content:"#FAFBFC",
+   report_text:"black"
+}

@@ -1,0 +1,7 @@
+notify_outdated_conda: false
+override_channels_enabled: false
+allow_other_channels: false
+channels:
+  - http://172.19.7.232:81/main
+  - http://172.19.7.232:81/conda-forge
+  - http://172.19.7.232:81/midas-plotly
